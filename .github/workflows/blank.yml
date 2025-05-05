@@ -1,5 +1,5 @@
 # This job checks out code from the repo
-checkout:
+ checkout:
 
 name: CI
 
